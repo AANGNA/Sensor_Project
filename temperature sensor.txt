@@ -1,0 +1,4 @@
+We aimed at creating a circuit with an Arduino card which would enable us to display the external temperature on our computer thanks to the help of a temperature sensor.
+Thus, we used an arduino card, a temperature sensor, a resistance and the arduino software.
+
+We encoded the arduino card in order to have the temperature adapted to an interesting scale and in Celsius degrees as it can be seen in the attached code.
